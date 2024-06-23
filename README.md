@@ -1,7 +1,5 @@
 # File Backup Tool
 
-Bakup your files easily with this simple tool!
+A simple file backup tool for macOS.
 
-> Made in 5 minutes using Apple Automator
-
-**THIS TOOL CURRENTLY ONLY WORKS WITH APPLE MACS**
+Made with Apple Automator. This app only runs on macOS.
